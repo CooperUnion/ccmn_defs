@@ -14,4 +14,7 @@
 #define NODE_BOARD_PIN_EEPROM_SDA 26
 #define NODE_BOARD_PIN_EEPROM_SCL 21
 
+/* eFuse */
+#define NODE_BOARD_PIN_VIN_EFUSE_FAULT 41
+
 #endif
